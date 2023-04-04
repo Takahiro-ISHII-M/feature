@@ -15,8 +15,9 @@ $f(x) = \sqrt{\frac{1}{x^2 + 1}}$
 １．まず
 ![](arm.png)
 
-![](https://gyazo.com/751140ae0c4b9ec5a3982ed7f0e75f91.png)
-
+[](
+    ![](https://gyazo.com/751140ae0c4b9ec5a3982ed7f0e75f91.png)
+)
 があります。
 
 その他、行列は
