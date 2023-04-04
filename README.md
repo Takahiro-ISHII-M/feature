@@ -42,4 +42,11 @@ $
 $f(\relax{x}) = \int_{-\infty}^\infty
     f\hat(\xi)\,e^{2 \pi i \xi x}
     \,d\xi$
-のとき
+のとき以下の式が成立する。
+
+$G(\theta)=\begin{pmatrix} 
+\sin(\theta)&\cos(\theta) \\
+-\cos(\theta)&\sin(\theta) \\
+\end{pmatrix}$
+
+以上
