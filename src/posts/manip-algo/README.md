@@ -8,11 +8,12 @@
 $f(x) = \sqrt{\frac{1}{x^2 + 1}}$
 
 
-## IoT とは
+## Robot Manipulator とは
 改変したのはだれでしょう？
 
 ## 挿絵例
 １．まず
+![](arm.png)
 
 ![](https://gyazo.com/751140ae0c4b9ec5a3982ed7f0e75f91.png)
 
