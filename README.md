@@ -49,4 +49,6 @@ $G(\theta)=\begin{pmatrix}
 -\cos(\theta)&\sin(\theta) \\
 \end{pmatrix}$
 
+これはGITHUBでは表示できず。残念!
+
 以上
